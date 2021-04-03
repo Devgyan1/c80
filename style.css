@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: honeydew;
+  }
+  
+  #para1_input_box-1 {
+    background-color: mediumspringgreen;
+  }
+  
+  #para1_input_box-2 {
+    background-color: mediumslateblue;
+  }
+  
+  #para1_input_box-3 {
+    background-color: mediumaquamarine;
+  }
+  
+  #para1_input_box-4 {
+    background-color: mediumseagreen;
+  }
+  
+  #para1_input_box-5 {
+    background-color: mediumvioletred;
+  }
+  
+  #para1_input_box-6 {
+    background-color: mediumorchid;
+  }
+  
+  button {
+    background-color: mediumturquoise;
+  }
+  
